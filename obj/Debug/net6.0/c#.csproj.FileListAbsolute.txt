@@ -1,0 +1,15 @@
+/home/nexaas-gabriel/c#/obj/Debug/net6.0/c#.csproj.AssemblyReference.cache
+/home/nexaas-gabriel/c#/obj/Debug/net6.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/nexaas-gabriel/c#/obj/Debug/net6.0/c#.AssemblyInfoInputs.cache
+/home/nexaas-gabriel/c#/obj/Debug/net6.0/c#.AssemblyInfo.cs
+/home/nexaas-gabriel/c#/obj/Debug/net6.0/c#.csproj.CoreCompileInputs.cache
+/home/nexaas-gabriel/c#/bin/Debug/net6.0/c#
+/home/nexaas-gabriel/c#/bin/Debug/net6.0/c#.deps.json
+/home/nexaas-gabriel/c#/bin/Debug/net6.0/c#.runtimeconfig.json
+/home/nexaas-gabriel/c#/bin/Debug/net6.0/c#.dll
+/home/nexaas-gabriel/c#/bin/Debug/net6.0/c#.pdb
+/home/nexaas-gabriel/c#/obj/Debug/net6.0/c#.dll
+/home/nexaas-gabriel/c#/obj/Debug/net6.0/refint/c#.dll
+/home/nexaas-gabriel/c#/obj/Debug/net6.0/c#.pdb
+/home/nexaas-gabriel/c#/obj/Debug/net6.0/c#.genruntimeconfig.cache
+/home/nexaas-gabriel/c#/obj/Debug/net6.0/ref/c#.dll
